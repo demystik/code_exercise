@@ -1,7 +1,7 @@
 <h1> EXERCISM C CHALLENGE :smile: </h1>
 <h3> Hey!:wave:this directory is for exercism c challenges </h3>
 
-# Exercise :page_with_curl:
+## Exercise :page_with_curl:
 | exercise			| simple explanations											      |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------|
 |`armstrong`			|`series of numbers that are same when counting from both sides`			         	      |
