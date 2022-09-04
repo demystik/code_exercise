@@ -1,4 +1,4 @@
-<h1> EXERCISM C CHALLENGE :smile: </h1>
+<h1> EXERCISM C CHALLENGE :muscle: </h1>
 <h3> Hey!:wave:this directory is for exercism c challenges </h3>
 
 ## Exercise :page_with_curl:
