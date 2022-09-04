@@ -9,3 +9,7 @@
 |`difference_of_squres`		|` calculate the difference between sum of squres of first Nth numbers and square of sum of first Nth numbers`|
 |`Hummings`			| `calculate the difference in two strands of DNA`							      |
 |				| 													      |
+
+# EXERCISM
+## EXERCISM
+### EXERCISM
