@@ -19,3 +19,8 @@ with open('myFile.txt', 'r') as file:
 	fileContent = file.read()
 words = fileContent.split(' ')
 print(len(words))
+
+
+colors = ['yellow', 'white', 'red', 'blue', 'green', 'violet', 'indigo', 'black']
+for index, color in enumerate(colors, start=1):
+	print(index, color)
