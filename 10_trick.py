@@ -24,3 +24,8 @@ print(len(words))
 colors = ['yellow', 'white', 'red', 'blue', 'green', 'violet', 'indigo', 'black']
 for index, color in enumerate(colors, start=1):
 	print(index, color)
+
+
+names = ['Peter parker', 'Clark kent', 'Wade Wilson', 'Bruce Wayne']
+heroes = ['Spiderman', 'Superman', 'Deadpool', 'Batman']
+universes = ['Marvel', 'DC', 'Marvel', 'DC']
