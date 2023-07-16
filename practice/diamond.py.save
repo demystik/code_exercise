@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+def diamond(n):
+	dmnd = ""
+	if n % 2 == 0 or n < 0:
+		return None
+	for i in range(1, n + 1, 2):
+		for j in range(i):
+			print(			for k in range(int((n - i) / 2)):
+				dmnd += "-"
+			dmnd += "*"
+		dmnd += '\n'
+	print(dmnd)
+diamond(5)
